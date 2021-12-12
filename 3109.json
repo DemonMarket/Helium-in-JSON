@@ -1,0 +1,157 @@
+{
+  "description": "You are a WITCH who lives in others' dreams. You have never lost a game in your life. Your magic spawns from dewdrops on blades of grass. You can chill the very marrow of an enemy's bones. IT’S TIME TO FLY!",
+  "external_url": "https://www.cryptocoven.xyz/witches/3109",
+  "image": "https://cryptocoven.s3.amazonaws.com/04f067b0846daef445da6d39bf9a33a6.png",
+  "name": "helium of the demon market",
+  "background_color": "",
+  "attributes": [{
+    "trait_type": "Skin Tone",
+    "value": "Day"
+  }, {
+    "trait_type": "Body Shape",
+    "value": "Lithe"
+  }, {
+    "trait_type": "Hair (Front)",
+    "value": "Hair Wrap"
+  }, {
+    "trait_type": "Hair Color",
+    "value": "Black"
+  }, {
+    "trait_type": "Background",
+    "value": "Plum"
+  }, {
+    "trait_type": "Mouth",
+    "value": "Bow (Dusk)"
+  }, {
+    "trait_type": "Eye Style",
+    "value": "Sunset Almond"
+  }, {
+    "trait_type": "Eye Color",
+    "value": "Glo"
+  }, {
+    "trait_type": "Eyebrows",
+    "value": "Pencil (White)"
+  }, {
+    "trait_type": "Top",
+    "value": "Sheer Sleeves (Black)"
+  }, {
+    "trait_type": "Facewear",
+    "value": "Septum Ring (Turquoise)"
+  }, {
+    "trait_type": "Hat",
+    "value": "Dita Disk with Poppies"
+  }, {
+    "trait_type": "Archetype of Power",
+    "value": "Necromancer"
+  }, {
+    "trait_type": "Sun Sign",
+    "value": "Gemini"
+  }, {
+    "trait_type": "Moon Sign",
+    "value": "Virgo"
+  }, {
+    "trait_type": "Rising Sign",
+    "value": "Gemini"
+  }, {
+    "display_type": "number",
+    "trait_type": "Will",
+    "value": 4,
+    "max_value": 9
+  }, {
+    "display_type": "number",
+    "trait_type": "Wit",
+    "value": 3,
+    "max_value": 9
+  }, {
+    "display_type": "number",
+    "trait_type": "Wiles",
+    "value": 0,
+    "max_value": 9
+  }, {
+    "display_type": "number",
+    "trait_type": "Wisdom",
+    "value": 8,
+    "max_value": 9
+  }, {
+    "display_type": "number",
+    "trait_type": "Wonder",
+    "value": 1,
+    "max_value": 9
+  }, {
+    "display_type": "number",
+    "trait_type": "Woe",
+    "value": 5,
+    "max_value": 9
+  }],
+  "coven": {
+    "id": 3109,
+    "name": "helium of the demon market",
+    "type": "necromancer",
+    "description": {
+      "intro": "You are a WITCH who lives in others' dreams.",
+      "hobby": "You have never lost a game in your life.",
+      "magic": "Your magic spawns from dewdrops on blades of grass.",
+      "typeSpecific": "You can chill the very marrow of an enemy's bones.",
+      "exclamation": "IT’S TIME TO FLY!"
+    },
+    "skills": {
+      "will": 4,
+      "wit": 3,
+      "wiles": 0,
+      "wisdom": 8,
+      "wonder": 1,
+      "woe": 5
+    },
+    "birthChart": {
+      "sun": "gemini",
+      "moon": "virgo",
+      "rising": "gemini"
+    },
+    "styles": [{
+      "id": "recvW5SDd4zIlllcw",
+      "attribute": "base",
+      "name": "lithe",
+      "color": "day"
+    }, {
+      "id": "recSCVQszbyi1V3Vv",
+      "attribute": "hair-bangs",
+      "name": "hair-wrap",
+      "color": "black"
+    }, {
+      "id": "recf5Zqur2aogfQzl",
+      "attribute": "background",
+      "name": "solid",
+      "color": "plum"
+    }, {
+      "id": "recbd2TwWoYHoK6jt",
+      "attribute": "mouth",
+      "name": "bow",
+      "color": "dusk"
+    }, {
+      "id": "recvpzkC8qADn6CtN",
+      "attribute": "eyes",
+      "name": "sunset-almond",
+      "color": "glo"
+    }, {
+      "id": "recpUZSIHB8ol24SY",
+      "attribute": "eyebrows",
+      "name": "pencil",
+      "color": "white"
+    }, {
+      "id": "recMkK76vvYLc1Mu8",
+      "attribute": "body-under",
+      "name": "sheer-sleeves",
+      "color": "black"
+    }, {
+      "id": "recAUjalPmJQFs81N",
+      "attribute": "facewear",
+      "name": "septum-ring",
+      "color": "turquoise"
+    }, {
+      "id": "rec1o7qVJ5lotThVd",
+      "attribute": "hat-front",
+      "name": "dita-disk-with-poppies"
+    }],
+    "hash": "04f067b0846daef445da6d39bf9a33a6"
+  }
+}
